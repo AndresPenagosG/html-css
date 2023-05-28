@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+ } 
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid goldenrod;
+    border-radius: 10px;
+    padding: 5px;
+ } 
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+ }
+
+#titulo{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+ }
+
+#Acerca_de_mi h2{
+    text-align: right;
+    margin-right: 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+    
+ }
+
+#Acerca_de_mi  li {
+    text-align: right;
+    text-align: left;
+    margin-left: 65%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+#Acerca_de_mi img{
+    margin-left: 10%;
+    margin-top: -120px;
+} 
+
+#Aptitudes h2{
+    text-align: right;
+    margin-right: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+ }
+
+#Aptitudes img{
+    margin-right: 5%;
+    margin-top: -170px;
+} 
+
+#Aptitudes li{
+    text-align: right;
+    text-align: left;
+    margin-left: 7%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+#Idiomas h2{
+    text-align: right;
+    text-align: left;
+    margin-left: 75%;
+    margin-top: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+ } 
+
+#Idiomas img{
+    margin-left: 10%;
+    margin-top: -100px;
+} 
+
+#Idiomas li{
+    text-align: right;
+    text-align: left;
+    margin-left: 73%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ } 
+
+#perfil h2{
+    text-align: right;
+    margin-right: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+ } 
+
+
+#perfil img{
+    margin-right: 5%;
+    margin-top: -170px;
+ }
+
+
+#perfil p{
+    text-align: right;
+    text-align: left;
+    margin-left: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+ }
+
+#formacion_academica h2{
+    text-align: right;
+    text-align: left;
+    margin-left: 65%;
+    margin-top: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+ }
+
+#formacion_academica img{
+    margin-left: 10%;
+    margin-top: -150px;
+ } 
+
+#formacion_academica p{
+    text-align: right;
+    text-align: left;
+    margin-left: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ } 
+
+#contacto h2{
+    text-align: right;
+    margin-right: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:goldenrod
+ } 
+
+#contacto img{
+    margin-right: 5%;
+    margin-top: -110px;
+ } 
+
+#contacto li{
+    text-align: right;
+    text-align: left;
+    margin-left: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+ }
+
+hr{
+    border: none;
+    border-top: 10px solid goldenrod;
+    margin: 20px 0;
+}
+ 
+ 
